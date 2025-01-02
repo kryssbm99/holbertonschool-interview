@@ -1,5 +1,12 @@
 #!/usr/bin/python3
 def canUnlockAll(boxes):
+    """
+    Determines if all boxes can be unlocked
+    Args:
+        boxes: list of lists of integers
+    Returns:
+        True if all boxes can be unlocked, False otherwise
+    """
     n = len(boxes)
     unlocked = [False] * n
     unlocked[0] = True
