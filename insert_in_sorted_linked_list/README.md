@@ -1,0 +1,1 @@
+Welcome to my insert in sorted linked list basic training
