@@ -11,6 +11,7 @@ Functions:
     minOperations(n): Returns the minimum number of operations.
 """
 
+
 def minOperations(n):
     """
     Calculate the minimum operations to get n 'H' characters.
