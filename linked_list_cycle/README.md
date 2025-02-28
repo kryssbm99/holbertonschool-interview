@@ -1,0 +1,1 @@
+Welcome to my linked list cycle basic training!
