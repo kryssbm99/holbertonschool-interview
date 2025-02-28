@@ -1,0 +1,1 @@
+Welcome to my log parsing interview prep basic training!
